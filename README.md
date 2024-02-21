@@ -4,6 +4,6 @@
 <!--   </a> -->
   <br>
   <a href="https://virgs.github.io/virgs/">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=virgs&layout=compact&disable_animations=true&langs_count=6" width="50%" height="auto">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=virgs&layout=compact&disable_animations=true&langs_count=8" height="auto">
   </a>
 </div>
