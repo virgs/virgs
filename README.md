@@ -24,7 +24,7 @@ Tech: [`phaser`](https://phaser.io/)
 Tech: [`phaser`](https://phaser.io/)
 - [<img align="left" height="20px" width="20px" alt="Tetris" src="https://virgs.github.io/tetris/assets/images/icon.png"/>](https://virgs.github.io/tetris/) [Tetris: ](https://github.com/virgs/tetris) The ultimate game of organizing chaos, where fitting in is literally the only way to win. \
 Tech: [`phaser`](https://phaser.io/)
-- [<img align="left" height="20px" width="20px" alt="Mancala" src="https://virgs.github.io/mancala/favicon.ico"/>](https://virgs.github.io/mancala/) [Mancala: ](https://github.com/virgs/mancala) A two-player turn-based strategy board game played with small stones and rows of holes. The perfect game to study the minimax AI algorithm. \
+- [<img align="left" height="20px" width="20px" alt="Mancala" src="https://virgs.github.io/mancala/favicon.ico"/>](https://virgs.github.io/mancala/) [Mancala: ](https://github.com/virgs/mancala) The perfect game to study the minimax AI algorithm. \
 Tech: `webworker`, `vue`.
 - [<img align="left" height="20px" width="20px" alt="Conway's game of life" src="https://virgs.github.io/conways-game-of-life/gameoflife.jpg"/>](https://virgs.github.io/conways-game-of-life/?interval=125&percentage=20&scale=10) [Conway's game of life: ](https://github.com/virgs/conways-game-of-life) My humble homage after knowing [John Conway](https://pt.wikipedia.org/wiki/John_Conway) passed away. 
 Tech `html`
