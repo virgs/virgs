@@ -1,6 +1,6 @@
 # Hello there, Virgs here
 
-Software engineer by trade, game developer by passion, and book writer for the love of it.
+Software engineer by trade, game developer by passion, and writer for the love of it.
 
 <!--<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">-->
 
@@ -29,6 +29,15 @@ Tech: `webworker`, `vue`.
 - [<img align="left" height="20px" width="20px" alt="Conway's game of life" src="https://virgs.github.io/conways-game-of-life/gameoflife.jpg"/>](https://virgs.github.io/conways-game-of-life/?interval=125&percentage=20&scale=10) [Conway's game of life: ](https://github.com/virgs/conways-game-of-life) My humble homage after knowing [John Conway](https://pt.wikipedia.org/wiki/John_Conway) passed away. 
 Tech `html`
 - And many others...
+
+## Recently written stuff
+
+- [<img align="left" height="20px" width="20px" alt="Como ser inteligente" src="https://raw.githubusercontent.com/virgs/como-ser-inteligente/refs/heads/main/como-ser-inteligente-favicon.png?token=GHSAT0AAAAAACFGP7HUOVXVTB4RHRUJBLLUZXQOYFA"/>](https://a.co/d/92hhTpB) [The Fabulous, Definitive, and Practical Guide on How to Be Intelligent: for beginners (Portuguese): ](https://a.co/d/92hhTpB) Parody self-aid book.
+- [<img align="left" height="20px" width="20px" alt="Sistemas reativos" src="https://cdn-icons-png.flaticon.com/256/3325/3325047.png"/>](https://a.co/d/92hhTpB) [Reactive systems: Not to be confused with radioactive systems (Portuguese): ](https://a.co/d/92hhTpB) Software engineering book on how to build responsive and resilient microservices architecture.
+- [<img align="left" height="20px" width="20px" alt="Personal blog" src="https://www.virgs.me/assets/images/gui.png"/>](https://virgs.me) [Virgulosophy (Portuguese): ](https://virgs.me) Personal blog with texts that have nothing to do with life, the universe or anything else..
+- Stay tuned. More to come...
+
+
 
 <details>
 <summary>Github stats</summary>
