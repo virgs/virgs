@@ -37,7 +37,7 @@ Tech `javascript`, `html`
 - [<img align="left" height="20px" width="20px" alt="Personal blog" src="https://www.virgs.me/assets/images/gui.png"/>](https://virgs.me) [Virgulosophy (Portuguese): ](https://virgs.me) Personal blog with texts that have nothing to do with life, the universe or anything else.
 - Stay tuned. More to come...
 
-## Recent open-source projects
+## Most starred open-source projects
 
 - [<img align="left" height="20px" width="20px" alt="Enqueuer" src="https://raw.githubusercontent.com/enqueuer-land/enqueuer/master/docs/images/symbol1.png"/>](https://enqueuer.com/docs) [Enqueuer: ](https://github.com/enqueuer-land/enqueuer) Polyglot flow testing CLI tool.
 - [<img align="left" height="20px" width="20px" alt="Stacker" src="https://raw.githubusercontent.com/enqueuer-land/stacker/master/build/icons/16x16.png"/>](https://enqueuer-land.github.io/stacker/) [Stacker: ](https://github.com/enqueuer-land/stacker) Polyglot flow testing GUI tool.
