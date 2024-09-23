@@ -26,7 +26,7 @@ Tech: `typescript`, [`phaser`](https://phaser.io/)
 Tech: `typescript`, [`phaser`](https://phaser.io/)
 - [<img align="left" height="20px" width="20px" alt="Mancala" src="https://virgs.github.io/mancala/favicon.ico"/>](https://virgs.github.io/mancala/) [Mancala: ](https://github.com/virgs/mancala) The perfect game to study the minimax AI algorithm. \
 Tech: `typescript`, `webworker`, `vue`.
-- [<img align="left" height="20px" width="20px" alt="Conway's game of life" src="https://virgs.github.io/conways-game-of-life/gameoflife.jpg"/>](https://virgs.github.io/conways-game-of-life/?interval=125&percentage=20&scale=10) [Conway's game of life: ](https://github.com/virgs/conways-game-of-life) My humble homage after knowing [John Conway](https://pt.wikipedia.org/wiki/John_Conway) passed away. 
+- [<img align="left" height="20px" width="20px" alt="Conway's game of life" src="https://virgs.github.io/conways-game-of-life/gameoflife.jpg"/>](https://virgs.github.io/conways-game-of-life/?interval=125&percentage=20&scale=10) [Conway's game of life: ](https://github.com/virgs/conways-game-of-life) My humble homage after knowing [John Conway](https://pt.wikipedia.org/wiki/John_Conway) passed away. \
 Tech `javascript`, `html`
 - And many others...
 
@@ -37,11 +37,12 @@ Tech `javascript`, `html`
 - [<img align="left" height="20px" width="20px" alt="Personal blog" src="https://www.virgs.me/assets/images/gui.png"/>](https://virgs.me) [Virgulosophy (Portuguese): ](https://virgs.me) Personal blog with texts that have nothing to do with life, the universe or anything else..
 - Stay tuned. More to come...
 
-## Recent projects
+## Recent (more relevant) projects
 
 - [<img align="left" height="20px" width="20px" alt="Enqueuer" src="https://raw.githubusercontent.com/enqueuer-land/enqueuer/master/docs/images/symbol1.png"/>](https://enqueuer.com/docs) [Enqueuer: ](https://github.com/enqueuer-land/enqueuer) Polyglot flow testing CLI tool.
 - [<img align="left" height="20px" width="20px" alt="Stacker" src="https://raw.githubusercontent.com/enqueuer-land/stacker/master/build/icons/16x16.png"/>](https://enqueuer-land.github.io/stacker/) [Stacker: ](https://github.com/enqueuer-land/stacker) Polyglot flow testing GUI tool.
 - [<img align="left" height="20px" width="20px" alt="Medium Next Gen Stats" src="https://raw.githubusercontent.com/virgs/medium-next-gen-stats/refs/heads/master/images/icon-128.png"/>](https://chromewebstore.google.com/detail/medium-next-generation-st/fhopcbdfcaleefngfpglahlpfhagendo) [Medium Next Gen Stats: ](https://github.com/virgs/medium-next-gen-stats) Google Chrome extension to take your [medium](https://medium.com) text stats to the next generation.
+- And a bunch of others...
 
 <details>
 <summary>Github stats</summary>
