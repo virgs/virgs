@@ -34,13 +34,14 @@ Tech `javascript`, `html`
 
 - [<img align="left" height="20px" width="20px" alt="Como ser inteligente" src="https://raw.githubusercontent.com/virgs/virgs/refs/heads/main/como-ser-inteligente-favicon.png"/>](https://a.co/d/92hhTpB) [The Fabulous, Definitive, and Practical Guide on How to Be Intelligent: for beginners (Portuguese): ](https://a.co/d/92hhTpB) Parody self-aid book.
 - [<img align="left" height="20px" width="20px" alt="Sistemas reativos" src="https://cdn-icons-png.flaticon.com/256/3325/3325047.png"/>](https://a.co/d/92hhTpB) [Reactive systems: Not to be confused with radioactive systems (Portuguese): ](https://a.co/d/92hhTpB) Software engineering book on how to build responsive and resilient microservices architecture.
-- [<img align="left" height="20px" width="20px" alt="Personal blog" src="https://www.virgs.me/assets/images/gui.png"/>](https://virgs.me) [Virgulosophy (Portuguese): ](https://virgs.me) Personal blog with texts that have nothing to do with life, the universe or anything else..
+- [<img align="left" height="20px" width="20px" alt="Personal blog" src="https://www.virgs.me/assets/images/gui.png"/>](https://virgs.me) [Virgulosophy (Portuguese): ](https://virgs.me) Personal blog with texts that have nothing to do with life, the universe or anything else.
 - Stay tuned. More to come...
 
-## Recent (more relevant) projects
+## Recent open-source projects
 
 - [<img align="left" height="20px" width="20px" alt="Enqueuer" src="https://raw.githubusercontent.com/enqueuer-land/enqueuer/master/docs/images/symbol1.png"/>](https://enqueuer.com/docs) [Enqueuer: ](https://github.com/enqueuer-land/enqueuer) Polyglot flow testing CLI tool.
 - [<img align="left" height="20px" width="20px" alt="Stacker" src="https://raw.githubusercontent.com/enqueuer-land/stacker/master/build/icons/16x16.png"/>](https://enqueuer-land.github.io/stacker/) [Stacker: ](https://github.com/enqueuer-land/stacker) Polyglot flow testing GUI tool.
+- [<img align="left" height="20px" width="20px" alt="Json placeholder replacer" src="https://cdn-icons-png.flaticon.com/256/12419/12419185.png"/>](https://www.npmjs.com/package/json-placeholder-replacer) [Json Placeholder Replacer: ](https://github.com/virgs/jsonPlaceholderReplacer) Lightweight powerful javascript library/CLI to replace placeholders in a JSON.
 - [<img align="left" height="20px" width="20px" alt="Medium Next Gen Stats" src="https://raw.githubusercontent.com/virgs/medium-next-gen-stats/refs/heads/master/images/icon-128.png"/>](https://chromewebstore.google.com/detail/medium-next-generation-st/fhopcbdfcaleefngfpglahlpfhagendo) [Medium Next Gen Stats: ](https://github.com/virgs/medium-next-gen-stats) Google Chrome extension to take your [medium](https://medium.com) text stats to the next generation.
 - And a bunch of others...
 
