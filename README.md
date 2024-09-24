@@ -54,7 +54,7 @@ Tech: `typescript`.
 - [<img align="left" height="20px" width="20px" alt="Egg CI" src="https://virgs.github.io/egg-ci/egg-icon.png"/>](https://virgs.github.io/egg-ci/) [Egg CI: ](https://github.com/virgs/egg-ci) CircleCI extension that reorganizes workflows and jobs more intuitively. \
 Tech: `typescript`, `bootstrap`, `react`.
 - [<img align="left" height="20px" width="20px" alt="Medium Next Gen Stats" src="https://raw.githubusercontent.com/virgs/medium-next-gen-stats/refs/heads/master/images/icon-128.png"/>](https://chromewebstore.google.com/detail/medium-next-generation-st/fhopcbdfcaleefngfpglahlpfhagendo) [Medium Next Gen Stats: ](https://github.com/virgs/medium-next-gen-stats) Google Chrome extension to take your [medium](https://medium.com) text stats to the next generation.
-Tech: `javascript`, [`chart.js`](https://www.chartjs.org/).
+Tech: `javascript`, [`chart.js`](https://www.chartjs.org/). \
 - And a bunch of others...
 
 <details>
