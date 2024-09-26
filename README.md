@@ -39,7 +39,7 @@ Tech `c++`, `allegro`.
 ## Recently written stuff
 
 - [<img align="left" height="20px" width="20px" alt="Como ser inteligente" src="https://raw.githubusercontent.com/virgs/virgs/refs/heads/main/como-ser-inteligente-favicon.png"/>](https://a.co/d/92hhTpB) [The Fabulous, Definitive, and Practical Guide on How to Be Intelligent: for beginners (Portuguese): ](https://a.co/d/92hhTpB) Parody self-aid book.
-- [<img align="left" height="20px" width="20px" alt="Sistemas reativos" src="https://cdn-icons-png.flaticon.com/256/3325/3325047.png"/>](https://a.co/d/92hhTpB) [Reactive systems: Not to be confused with radioactive systems (Portuguese): ](https://a.co/d/92hhTpB) Software engineering book on how to build responsive and resilient microservices architecture.
+- [<img align="left" height="20px" width="20px" alt="Sistemas reativos" src="https://cdn-icons-png.flaticon.com/256/3325/3325047.png"/>](https://a.co/d/2mSrqUW) [Reactive systems: Not to be confused with radioactive systems (Portuguese): ](https://a.co/d/2mSrqUW) Software engineering book on how to build responsive and resilient microservices architecture.
 - [<img align="left" height="20px" width="20px" alt="Personal blog" src="https://www.virgs.me/assets/images/gui.png"/>](https://virgs.me) [Virgulosophy (Portuguese): ](https://virgs.me) Personal blog with texts that have nothing to do with life, the universe or anything else.
 - Stay tuned. More to come...
 
@@ -54,7 +54,7 @@ Tech: `typescript`.
 - [<img align="left" height="20px" width="20px" alt="Egg CI" src="https://virgs.github.io/egg-ci/egg-icon.png"/>](https://virgs.github.io/egg-ci/) [Egg CI: ](https://github.com/virgs/egg-ci) CircleCI extension that reorganizes workflows and jobs more intuitively. \
 Tech: `typescript`, `bootstrap`, `react`.
 - [<img align="left" height="20px" width="20px" alt="Medium Next Gen Stats" src="https://raw.githubusercontent.com/virgs/medium-next-gen-stats/refs/heads/master/images/icon-128.png"/>](https://chromewebstore.google.com/detail/medium-next-generation-st/fhopcbdfcaleefngfpglahlpfhagendo) [Medium Next Gen Stats: ](https://github.com/virgs/medium-next-gen-stats) Google Chrome extension to take your [medium](https://medium.com) text stats to the next generation.
-Tech: `javascript`, [`chart.js`](https://www.chartjs.org/). \
+Tech: `javascript`, [`chart.js`](https://www.chartjs.org/).
 - And a bunch of others...
 
 <details>
