@@ -6,13 +6,13 @@ Software engineer by trade, game developer by passion, and writer for the love o
 
 ## Recent game projects
 
-- [<img align="left" height="20px" width="20px" alt="Rubik's cube AI" src="https://virgs.github.io/rubiks-cubes-ai/favicon.png"/>](https://virgs.github.io/rubiks-cubes-ai/) [Rubik's cube AI: ](https://github.com/virgs/rubiks-cubes-ai/) Multiple dimension 3D Rubik's cubes played by different AI algorithms. \
+- [<img align="left" height="20px" width="20px" alt="Rubik's cube AI" src="https://virgs.github.io/rubiks-cubes-ai/favicon.png"/>](https://virgs.github.io/rubiks-cubes-ai/) [Rubik's cube AI: ](https://github.com/virgs/rubiks-cubes-ai/) Multiple AI algorithms battle to solve 3D-rendered 2x2x2 Rubik's cubes faster. \
 Tech: `typescript`, `webworker`, `bootstrap`, `vue`, [`three`](https://threejs.org/), [`tweenjs`](https://tweenjs.github.io/tween.js/)
-- [<img align="left" height="20px" width="20px" alt="Sudoku" src="https://virgs.github.io/sudoku/logo.svg"/>](https://virgs.github.io/sudoku/) [Sudoku: ](https://github.com/virgs/sudoku/) Dedicated to the many variations of Sudoku puzzles art. \
+- [<img align="left" height="20px" width="20px" alt="Sudoku" src="https://virgs.github.io/sudoku/logo.svg"/>](https://virgs.github.io/sudoku/) [Sudoku: ](https://github.com/virgs/sudoku/) A game that I made that I actually play. \
 Tech: `typescript`, `bootstrap`, `react`.
-- [<img align="left" height="20px" width="20px" alt="2048 AI" src="https://virgs.github.io/2048-ai/2048_Icon.ico"/>](https://virgs.github.io/2048-ai/) [2048 AI: ](https://github.com/virgs/2048-ai/) The perfect game to apply the [Pure Monte Carlo Tree Search](https://github.com/virgs/2048-ai#pure-mtcs). \
+- [<img align="left" height="20px" width="20px" alt="2048 AI" src="https://virgs.github.io/2048-ai/2048_Icon.ico"/>](https://virgs.github.io/2048-ai/) [2048 AI: ](https://github.com/virgs/2048-ai/) The perfect game to apply the [Pure Monte Carlo Tree Search](https://github.com/virgs/2048-ai#pure-mtcs) AI. \
 Tech: `typescript`, `webworker`, `bootstrap`, `react`.
-- [<img align="left" height="20px" width="20px" alt="Minesweeper AI" src="https://virgs.github.io/minesweeper-ai/favicon.svg"/>](https://virgs.github.io/minesweeper-ai/) [Minewsweeper AI: ](https://github.com/virgs/minesweeper-ai/) My own implementation based on the [Harvard's *Introduction to AI*](https://cs50.harvard.edu/ai/2023/projects/1/minesweeper) course. \
+- [<img align="left" height="20px" width="20px" alt="Minesweeper AI" src="https://virgs.github.io/minesweeper-ai/favicon.svg"/>](https://virgs.github.io/minesweeper-ai/) [Minewsweeper AI: ](https://github.com/virgs/minesweeper-ai/) My own AI implementation based on the [Harvard's *Introduction to AI*](https://cs50.harvard.edu/ai/2023/projects/1/minesweeper) course. \
 Tech: `typescript`, `webworker`, [`assembly script`](https://www.assemblyscript.org/), `bootstrap`, `react`.
 - [<img align="left" height="20px" width="20px" alt="Pacman" src="https://virgs.github.io/pacman/pacman-neon-icon.jpeg"/>](https://virgs.github.io/pacman/) [Pacman: ](https://github.com/virgs/pacman/) I felt like a neurosurgeon and studied Ghosts' brains different AI strategies. \
 Tech: `typescript`, `bootstrap`, `css`.
