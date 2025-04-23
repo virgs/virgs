@@ -6,7 +6,8 @@ Software engineer by trade, game developer by passion, and writer for the love o
 
 ## Recent game projects
 
-- [<img align="left" height="20px" width="20px" alt="Navigator's Gamble" src="https://virgs.github.io/navigators-gamble/favicon.png"/>](https://virgs.github.io/navigators-gamble/) [Navigator's Gamble: ](https://github.com/virgs/navigators-gamble/) A fast-paced treasure-hunting card game where every move maps a path through danger, curses, and gold. Place your cards and outwit your rivals. \
+- [<img align="left" height="20px" width="20px" alt="Navigator's Gamble" src="https://virgs.github.io/navigators-gamble/favicon.png"/>](https://virgs.github.io/navigators-gamble/) [Navigator's Gamble: ](https://github.com/virgs/navigators-gamble/) A fast-paced treasure-hunting card game where every move maps a path through danger, curses, and gold. \
+Tech: `typescript`, `webworker`, `bootstrap`, `react`.
 - [<img align="left" height="20px" width="20px" alt="Rubik's cube AI" src="https://virgs.github.io/rubiks-cubes-ai/favicon.png"/>](https://virgs.github.io/rubiks-cubes-ai/) [Rubik's cube AI: ](https://github.com/virgs/rubiks-cubes-ai/) Multiple AI algorithms battle to solve 3D-rendered 2x2x2 Rubik's cubes faster. \
 Tech: `typescript`, `webworker`, `bootstrap`, `vue`, [`three`](https://threejs.org/), [`tweenjs`](https://tweenjs.github.io/tween.js/)
 - [<img align="left" height="20px" width="20px" alt="Sudoku" src="https://virgs.github.io/sudoku/logo.svg"/>](https://virgs.github.io/sudoku/) [Sudoku: ](https://github.com/virgs/sudoku/) A game that I made that I actually play. \
