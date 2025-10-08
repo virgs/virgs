@@ -35,7 +35,7 @@ Tech `java`, `jsfml`, `aws dynamo db`.
 - [<img align="left" height="20px" width="20px" alt="High Order Ninja" src="https://cdn-icons-png.flaticon.com/256/3426/3426348.png"/>](https://youtu.be/qPbJ72pqE-g) [(2016) High Order Ninja: ](https://github.com/virgs/highorderninja) Multiplayer dynamic and energetic ninja game. \
 Tech `java`, `jsfml`.
 - [<img align="left" height="20px" width="20px" alt="Sumo Pro Sumo" src="https://cdn-icons-png.flaticon.com/256/10637/10637983.png"/>](https://www.youtube.com/watch?v=0KV4fCBeOgY) [(2009) Sumo Pro Sumo: ](https://github.com/virgs/SumoProSumo) Fighting top-view game. And there is the ocean, I guess. \
-Tech `c++`, `allegro`.
+Tech `c++`, `allegra`.
 - And many others...
 
 ## Recently written stuff
