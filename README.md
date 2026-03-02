@@ -47,7 +47,7 @@ Tech `c++`, `allegra`.
 
 ## Most relevant open-source projects
 
-- [<img align="left" height="20px" width="20px" alt="Egg CI" src="https://virgs.github.io/egg-ci/egg-icon.png"/>](https://virgs.github.io/egg-ci/) [(2023) Egg CI: ](https://github.com/virgs/egg-ci) CircleCI extension that reorganizes workflows and jobs more intuitively. \
+- [<img align="left" height="20px" width="20px" alt="Egg CI" src="https://virgs.github.io/egg-ci/logo.png"/>](https://virgs.github.io/egg-ci/) [(2023) Egg CI: ](https://github.com/virgs/egg-ci) CircleCI extension that reorganizes workflows and jobs more intuitively. \
 Tech: `typescript`, `bootstrap`, `react`.
 - [<img align="left" height="20px" width="20px" alt="Json placeholder replacer" src="https://cdn-icons-png.flaticon.com/256/12419/12419185.png"/>](https://www.npmjs.com/package/json-placeholder-replacer) [(2020) Json Placeholder Replacer: ](https://github.com/virgs/jsonPlaceholderReplacer) Lightweight powerful javascript library/CLI to replace placeholders in a JSON. \
 Tech: `typescript`.
