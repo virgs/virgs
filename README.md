@@ -6,6 +6,8 @@ Software engineer by trade, game developer by passion, and writer for the love o
 
 ## Recent game projects
 
+- [<img align="left" height="20px" width="20px" alt="Locker Hacker" src="https://virgs.github.io/locker-hacker/icon.png"/>](https://virgs.github.io/locker-hacker/) [(2026) Locker Hacker: ](https://github.com/virgs/locker-hacker/) A Bulls and Cows code-breaking game played with pattern lock paths over a grid of dots. \
+Tech: `typescript`, `bootstrap`, `react`, `claude`.
 - [<img align="left" height="20px" width="20px" alt="Navigator's Gamble" src="https://virgs.github.io/navigators-gamble/favicon.png"/>](https://virgs.github.io/navigators-gamble/) [(2025) Navigator's Gamble: ](https://github.com/virgs/navigators-gamble/) A treasure-hunting card game where every move maps a path through danger and gold. \
 Tech: `typescript`, `webworker`, `bootstrap`, `react`.
 - [<img align="left" height="20px" width="20px" alt="Sudoku" src="https://virgs.github.io/sudoku/logo.svg"/>](https://virgs.github.io/sudoku/) [(2024) Sudoku: ](https://github.com/virgs/sudoku/) A game that I made that I actually play. \
