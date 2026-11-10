@@ -42,6 +42,7 @@ Tech `c++`, `allegra`.
 
 ## Recently written stuff
 
+- [<img align="left" height="20px" width="20px" alt="Artificial Intelligence for Games" src="https://raw.githubusercontent.com/virgs/virgs/refs/heads/main/assets/images/joystick.svg"/>](https://a.co/d/0grL2jy9) [Artificial Intelligence for Games: How to Build Agents in Classic Games (Portuguese): ](https://a.co/d/0grL2jy9) A practical guide to building AI agents through classic games.
 - [<img align="left" height="20px" width="20px" alt="Como ser inteligente" src="https://raw.githubusercontent.com/virgs/virgs/refs/heads/main/como-ser-inteligente-favicon.png"/>](https://a.co/d/92hhTpB) [(2022) The Fabulous, Definitive, and Practical Guide on How to Be Intelligent: for beginners (Portuguese): ](https://a.co/d/92hhTpB) Parody self-aid book.
 - [<img align="left" height="20px" width="20px" alt="Sistemas reativos" src="https://cdn-icons-png.flaticon.com/256/3325/3325047.png"/>](https://a.co/d/2mSrqUW) [(2021) Reactive systems: Not to be confused with radioactive systems (Portuguese): ](https://a.co/d/2mSrqUW) Software engineering book on how to build responsive and resilient microservices architecture.
 - [<img align="left" height="20px" width="20px" alt="Personal blog" src="https://raw.githubusercontent.com/virgs/virgs/refs/heads/main/assets/images/blog-writing.svg"/>](https://virgs.me) [(2018-Now) Virgulosophy (Portuguese): ](https://virgs.me) Personal blog with texts that have nothing to do with life, the universe or anything else.
