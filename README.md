@@ -50,7 +50,7 @@ Tech `c++`, `allegra`.
 
 ## Most relevant open-source projects
 
-- [<img align="left" height="20px" width="20px" alt="Platonic Solids Explorer" src="https://virgs.github.io/platonic-solids/favicon.svg"/>](https://virgs.github.io/platonic-solids/) [(2026) Platonic Solids Explorer: ](https://github.com/virgs/platonic-solids/) Explore the Platonic and Kepler–Poinsot solids in interactive 3D, with reversible dual and stellation animations. \
+- [<img align="left" height="20px" width="20px" alt="Polyhedra Explorer" src="https://virgs.github.io/platonic-solids/favicon.svg"/>](https://virgs.github.io/platonic-solids/) [(2026) Polyhedra Explorer: ](https://github.com/virgs/platonic-solids/) Explore regular and rectified polyhedra in interactive 3D, with reversible dual, stellation, and rectification animations. \
 Tech: `typescript`, `react`, `three.js`, `react-three-fiber`, `bootstrap`, `bootswatch`.
 - [<img align="left" height="20px" width="20px" alt="Egg CI" src="https://virgs.github.io/egg-ci/logo.png"/>](https://virgs.github.io/egg-ci/) [(2023) Egg CI: ](https://github.com/virgs/egg-ci) CircleCI extension that reorganizes workflows and jobs more intuitively. \
 Tech: `typescript`, `bootstrap`, `react`.
