@@ -44,11 +44,13 @@ Tech `c++`, `allegra`.
 
 - [<img align="left" height="20px" width="20px" alt="Como ser inteligente" src="https://raw.githubusercontent.com/virgs/virgs/refs/heads/main/como-ser-inteligente-favicon.png"/>](https://a.co/d/92hhTpB) [(2022) The Fabulous, Definitive, and Practical Guide on How to Be Intelligent: for beginners (Portuguese): ](https://a.co/d/92hhTpB) Parody self-aid book.
 - [<img align="left" height="20px" width="20px" alt="Sistemas reativos" src="https://cdn-icons-png.flaticon.com/256/3325/3325047.png"/>](https://a.co/d/2mSrqUW) [(2021) Reactive systems: Not to be confused with radioactive systems (Portuguese): ](https://a.co/d/2mSrqUW) Software engineering book on how to build responsive and resilient microservices architecture.
-- [<img align="left" height="20px" width="20px" alt="Personal blog" src="https://www.virgs.me/assets/images/gui.png"/>](https://virgs.me) [(2018-Now) Virgulosophy (Portuguese): ](https://virgs.me) Personal blog with texts that have nothing to do with life, the universe or anything else.
+- [<img align="left" height="20px" width="20px" alt="Personal blog" src="https://raw.githubusercontent.com/virgs/virgs/refs/heads/main/assets/images/blog-writing.svg"/>](https://virgs.me) [(2018-Now) Virgulosophy (Portuguese): ](https://virgs.me) Personal blog with texts that have nothing to do with life, the universe or anything else.
 - Stay tuned. More to come...
 
 ## Most relevant open-source projects
 
+- [<img align="left" height="20px" width="20px" alt="Platonic Solids Explorer" src="https://virgs.github.io/platonic-solids/favicon.svg"/>](https://virgs.github.io/platonic-solids/) [(2026) Platonic Solids Explorer: ](https://github.com/virgs/platonic-solids/) Explore the Platonic and Kepler–Poinsot solids in interactive 3D, with reversible dual and stellation animations. \
+Tech: `typescript`, `react`, `three.js`, `react-three-fiber`, `bootstrap`, `bootswatch`.
 - [<img align="left" height="20px" width="20px" alt="Egg CI" src="https://virgs.github.io/egg-ci/logo.png"/>](https://virgs.github.io/egg-ci/) [(2023) Egg CI: ](https://github.com/virgs/egg-ci) CircleCI extension that reorganizes workflows and jobs more intuitively. \
 Tech: `typescript`, `bootstrap`, `react`.
 - [<img align="left" height="20px" width="20px" alt="Json placeholder replacer" src="https://cdn-icons-png.flaticon.com/256/12419/12419185.png"/>](https://www.npmjs.com/package/json-placeholder-replacer) [(2020) Json Placeholder Replacer: ](https://github.com/virgs/jsonPlaceholderReplacer) Lightweight powerful javascript library/CLI to replace placeholders in a JSON. \
