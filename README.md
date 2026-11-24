@@ -6,6 +6,8 @@ Software engineer by trade, game developer by passion, and writer for the love o
 
 ## Recent game projects
 
+- [<img align="left" height="20px" width="20px" alt="Moonlit Battle Garden" src="https://virgs.github.io/moonlit-battle-garden/assets/characters/champignon/icon.png"/>](https://virgs.github.io/moonlit-battle-garden/) [(2026) Moonlit Battle Garden: ](https://github.com/virgs/moonlit-battle-garden/) A moonlit Whac-A-Mole duel with character spells, AI opponents, local battles and online multiplayer. \
+Tech: `typescript`, `react`, [`phaser`](https://phaser.io/), `vite`, `peerjs`.
 - [<img align="left" height="20px" width="20px" alt="Locker Hacker" src="https://virgs.github.io/locker-hacker/icon.png"/>](https://virgs.github.io/locker-hacker/) [(2026) Locker Hacker: ](https://github.com/virgs/locker-hacker/) A Bulls and Cows code-breaking game played with pattern lock paths over a grid of dots. \
 Tech: `typescript`, `bootstrap`, `react`, `claude`.
 - [<img align="left" height="20px" width="20px" alt="Navigator's Gamble" src="https://virgs.github.io/navigators-gamble/favicon.png"/>](https://virgs.github.io/navigators-gamble/) [(2025) Navigator's Gamble: ](https://github.com/virgs/navigators-gamble/) A treasure-hunting card game where every move maps a path through danger and gold. \
